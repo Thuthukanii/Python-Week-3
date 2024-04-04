@@ -26,7 +26,7 @@ def register():
             print("Registration is successful!")
         else:
             print("Please try again")
-
+ 
 def login():
     email = input("Please enter your email")
     password = input("Please enter your password")
